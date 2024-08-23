@@ -1,0 +1,12 @@
+  {
+    "data_id": "2",
+    "set": {
+      "M": "Ti-7Fe-11Nb",
+      "F": "Young's modulus",
+      "VoF": "84 GPa",
+      "C": "",
+      "VoC": ""
+    },
+    "text": "Ti-7Fe-11Nb possesses the lowest Young's modulus (84 GPa) and the highest deformability (42% strain) among the designed alloys due to the single β phase microstructure.",
+    "text_id": "2"
+  }
