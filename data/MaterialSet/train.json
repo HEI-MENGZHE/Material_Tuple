@@ -1,0 +1,12 @@
+  {
+    "data_id": "1",
+    "set": {
+      "M": "specimens",
+      "F": "hardness",
+      "VoF": "210 HV0.2",
+      "C": "pressures",
+      "VoC": "30"
+    },
+    "text": "The hardness of the specimens sintered under the pressures of 30, 35, and 40 MPa increased gradually from 210 HV0.2, which is the single FCC phase in the center, to the maximum value near the surface as a result of the gradual increase in the fraction of the transformed \u03c3 phase.",
+    "text_id": "1"
+  }
