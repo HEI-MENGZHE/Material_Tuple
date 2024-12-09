@@ -1,0 +1,15 @@
+Herein, we describe lead-free cesium halide memristors incorporating a MoOX interfacial layer as a type of conductive-bridging memristor. With this design, we obtained highly uniform and reproducible memristors that exhibited all-around resistive switching characteristics: ultralow operating voltages (<0.18 V), low variations (<30 mV), long retention times (>106 s), high endurance (>105, full on/off cycles), record-high on/off ratios (>1010, smaller devices having areas <5 × 10-4 mm2), fast switching (<200 ns), and multilevel programming abilities (>64 states).
+The molybdenum disulfide (MoS2) material exhibits a high on/off ratio of 10^4, enabling reliable switching behavior.
+The carbon nanotube (CNT) device demonstrates a fast switching speed of less than 10 nanoseconds.
+The spintronic synaptic device exhibits linear weight modulation with a tunable range of 100%
+The graphene-based neuromorphic computing system operates with low power consumption of less than 100 microwatts per synapse.
+The nickel oxide (NiO) memristor exhibits high endurance with more than 10^8 write/erase cycles without significant degradation.
+The chalcogenide glass (GeSbTe) synaptic device can withstand over 10^6 write/erase cycles with negligible performance degradation.
+The hafnium oxide (HfO2)-based memristor exhibits excellent retention characteristics, with a data retention time of over 10 years at room temperature.
+The phase-change memory (PCM) device demonstrates long-term retention of the trained weight, with a retention time exceeding 10^5 seconds.
+The energy consumption of WO3 during the transients was estimated to be ~2.5 fJ per pulse
+For amorphous SiO2, this activation energy was reported to be 0.38 eV
+The TiO2-based memristor exhibits a switching voltage of around 1V and a switching field of 10^5 V/cm.
+The NiO memristor exhibits a data retention time of over 10^4 seconds at room temperature.
+The NiO memristor can be fabricated with a feature size of less than 100 nm, enabling high integration density.
+The MoS2 memristor exhibits forming-free switching with a high endurance of 1 × 10^7 cycles, low device-to-device variability (19.7% for set and 18.5% for reset), excellent retention for 10 years and a remarkable wafer-scale crossbar arrays scalability

@@ -1,0 +1,284 @@
+[
+    {
+    "data_id": 1,
+    "text": "The switching voltage of MoO2 and CsPbBr3 are 0.18 V and 0.19 V, respectively.",
+    "set": [
+      {
+        "M": "MoO2",
+        "F": "switching voltage",
+        "VoF": "0.18 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "CsPbBr3",
+        "F": "switching voltage",
+        "VoF": "0.19 V",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 2,
+    "text": "Neuromorhpic computing materials with the function of serving as Threshold and analog switching include MoO2 and CsPbBr3, their retention are about 106 s and 105 s.",
+    "set": [
+      {
+        "M": "MoO2",
+        "F": "retention",
+        "VoF": "106 s",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "CsPbBr3",
+        "F": "retention",
+        "VoF": "105 s",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 3,
+    "text": "MoS2 as a neuromorhpic computing materials for tunable stochastic dynamics, the switching voltage is about 1 V and the time scale is about 2 s.",
+    "set": [
+      {
+        "M": "MoS2",
+        "F": "switching voltage",
+        "VoF": "1 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "MoS2",
+        "F": "time scale",
+        "VoF": "2 s",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 4,
+    "text": "SnO2 can be applied in tunable stochastic dynamics with a great switching voltage of 1 V and  time scale of 2 s.",
+    "set": [
+      {
+        "M": "SnO2",
+        "F": "switching voltage",
+        "VoF": "1 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "SnO2",
+        "F": "time scale",
+        "VoF": "2 s",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 5,
+    "text": "TiO2 is typically used in multiple logic with switching voltage of 30 V, endurance of 8300, retention of 10 y, power consumption of 0.147 fj.",
+    "set": [
+      {
+        "M": "TiO2",
+        "F": "switching voltage",
+        "VoF": "30 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "TiO2",
+        "F": "endurance",
+        "VoF": "8300",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "TiO2",
+        "F": "retention",
+        "VoF": "10 y",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "TiO2",
+        "F": "power consumption",
+        "VoF": "0.147 fj",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 6,
+    "text": "Moreover, TiO2 has a on-off ratio of 105, feature size of 100 nm and a time scale of 42 ns.",
+    "set": [
+      {
+        "M": "TiO2",
+        "F": "on-off ratio",
+        "VoF": "105",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "TiO2",
+        "F": "feature size",
+        "VoF": "100 nm",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "TiO2",
+        "F": "time scale",
+        "VoF": "42 ns",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 7,
+    "text": "WO3 is typically used in calculating multiple synaptic weights withs switching voltage of 10 V, endurance of 105, retention of 100 s, power consumption of 10 fj.",
+    "set": [
+      {
+        "M": "WO3",
+        "F": "switching voltage",
+        "VoF": "10 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "WO3",
+        "F": "endurance",
+        "VoF": "105",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "WO3",
+        "F": "retention",
+        "VoF": "100 s",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "WO3",
+        "F": "power consumption",
+        "VoF": "10 fj",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 8,
+    "text": "Moreover, WO3 has a feature size of 100 nm and a time scale of 2 ns.",
+    "set": [
+      {
+        "M": "WO3",
+        "F": "feature size",
+        "VoF": "100 nm",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "WO3",
+        "F": "time scale",
+        "VoF": "2 ns",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 9,
+    "text": "SO3K is used for processing dual modes, such as and, nor, or. The switching voltage is 0.3 V.",
+    "set": [
+      {
+        "M": "SO3K",
+        "F": "switching voltage",
+        "VoF": "0.3 V",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 10,
+    "text": "SO3K has a feature size of 100 μm and a time scale of 1 ms.",
+    "set": [
+      {
+        "M": "SO3K",
+        "F": "feature size",
+        "VoF": "100 μm",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "SO3K",
+        "F": "time scale",
+        "VoF": "1 ms",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 11,
+    "text": "NdNiO3 often functions as Spiking neurons in the neuromorphic computing. It has a low switching voltage of 0.45 V and a long endurance of 1600.",
+    "set": [
+      {
+        "M": "NdNiO3",
+        "F": "switching voltage",
+        "VoF": "0.45 V",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "NdNiO3",
+        "F": "endurance",
+        "VoF": "1600",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  },
+  {
+    "data_id": 13,
+    "text": "NdNiO3 often functions as Spiking neurons in the neuromorphic computing. It has a power consumption of 2 fj, on-off ratio of 6, feature size of 100 μm and a time scale of 1 ms.",
+    "set": [
+      {
+        "M": "NdNiO3",
+        "F": "power consumption",
+        "VoF": "2 fj",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "NdNiO3",
+        "F": "on-off ratio",
+        "VoF": "6",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "NdNiO3",
+        "F": "feature size",
+        "VoF": "100 μm",
+        "C": "",
+        "VoC": ""
+      },
+      {
+        "M": "NdNiO3",
+        "F": "time scale",
+        "VoF": "1 ms",
+        "C": "",
+        "VoC": ""
+      }
+    ]
+  }
+]

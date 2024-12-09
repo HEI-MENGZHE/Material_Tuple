@@ -7,7 +7,7 @@ import torch
 import numpy as np
 import random
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+os.environ["CUDA_VISIBLE_DEVICES"] = "3"
 
 seed = 1234
 torch.manual_seed(seed)
@@ -18,29 +18,28 @@ torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--model_name', type=str, default='MaterialSet_allocation', help='name of the model')
+parser.add_argument('--model_name', type=str, default='MaterialSet', help='name of the model')
 parser.add_argument('--lr', type=float, default=1e-5)
 parser.add_argument('--multi_gpu', type=bool, default=False)
-parser.add_argument('--dataset', type=str, default='MaterialSet_allocation')
-parser.add_argument('--batch_size', type=int, default=8)
-parser.add_argument('--max_epoch', type=int, default=5)
+parser.add_argument('--dataset', type=str, default='MaterialSet')
+parser.add_argument('--batch_size', type=int, default=16)
+parser.add_argument('--max_epoch', type=int, default=50)
 parser.add_argument('--test_epoch', type=int, default=1)
-parser.add_argument('--train_prefix', type=str, default='train_sets')
-parser.add_argument('--dev_prefix', type=str, default='dev_sets')
-parser.add_argument('--test_prefix', type=str, default='test_4') # 要改
+parser.add_argument('--train_prefix', type=str, default='train_random')
+parser.add_argument('--dev_prefix', type=str, default='dev_random')
+parser.add_argument('--test_prefix', type=str, default='test_3')
 parser.add_argument('--max_len', type=int, default=150)
 parser.add_argument('--rel_num', type=int, default=44)
 parser.add_argument('--period', type=int, default=50)
 parser.add_argument('--debug', type=bool, default=False)
-parser.add_argument('--datatype', type=int, default=4) # 要改
-parser.add_argument('--traintype', type=str, default="all", help="ablation test") # 要改
-# 在命令行里面只需要改 --traintype
+parser.add_argument('--datatype', type=int, default=5)
+parser.add_argument('--traintype', type=str, default="all", help="ablation test")
 args = parser.parse_args()
 
 con = config.Config(args)
 
 fw = framework.Framework(con)
 
-model_used = model.MaterialSet_allocation
+model_used = model.MaterialSet
 
-fw.testall_allocation(model_used)
+fw.train(model_used)

@@ -1,0 +1,2133 @@
+[
+    {
+        "set": [
+            {
+                "M": "Ti64",
+                "F": "elastic admissible strain",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "elastic admissible strain",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "A higher value is the induction of a good balance between yield strength and Young\u2019s modulus [2,21]. The calculated elastic admissible strain of Ti513 (1.42%) is much higher than that of Ti64 ELI (0.77%), indicating a significant promise as a metallic implant.",
+        "data_id": 1,
+        "pred_set": [
+            {
+                "M": "Ti64",
+                "F": "yield strength",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti64",
+                "F": "Young\u2019s modulus",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "yield strength",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti64",
+                "F": "yield strength",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti64",
+                "F": "elastic admissible strain",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "yield strength",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "elastic admissible strain",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "Young\u2019s modulus",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti64",
+                "F": "elastic admissible strain",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti64",
+                "F": "Young\u2019s modulus",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "elastic admissible strain",
+                "VoF": "0.77%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti513",
+                "F": "Young\u2019s modulus",
+                "VoF": "1.42%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbTaTiVW",
+                "F": "yield strength",
+                "VoF": "1420 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiVW",
+                "F": "fracture strain",
+                "VoF": "20%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "While NbTaTiV is very ductile and does not fracture up to 50% strain, NbTaTiVW has a yield strength of 1420 MPa with a fracture strain of 20%.",
+        "data_id": 2,
+        "pred_set": [
+            {
+                "M": "NbTaTiV",
+                "F": "yield strength",
+                "VoF": "1420 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiVW",
+                "F": "fracture strain",
+                "VoF": "1420 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiV",
+                "F": "yield strength",
+                "VoF": "20%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiVW",
+                "F": "fracture strain",
+                "VoF": "20%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiV",
+                "F": "fracture strain",
+                "VoF": "20%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiVW",
+                "F": "yield strength",
+                "VoF": "20%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiV",
+                "F": "fracture strain",
+                "VoF": "1420 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbTaTiVW",
+                "F": "yield strength",
+                "VoF": "1420 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "ZTAFV-1.5",
+                "F": "ultimate tensile strength",
+                "VoF": "1667 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "ZTAFV-1.5",
+                "F": "elongation",
+                "VoF": "2.34%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "With Fe content increasing to 1.5 wt%, ZTAFV-1.5 alloy has an ultimate tensile strength of 1667 MPa, but it exhibits a lower total elongation of 2.34%",
+        "data_id": 3,
+        "pred_set": [
+            {
+                "M": "ZTAFV-1.5",
+                "F": "ultimate tensile strength",
+                "VoF": "1667 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "ZTAFV-1.5",
+                "F": "ultimate tensile strength",
+                "VoF": "2.34%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "ZTAFV-1.5",
+                "F": "elongation",
+                "VoF": "2.34%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "ZTAFV-1.5",
+                "F": "elongation",
+                "VoF": "1667 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201312Mo\u20136Zr\u20132Fe",
+                "F": "elastic modulus",
+                "VoF": "74\u201386 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb\u20137Zr\u20135Ta",
+                "F": "elastic modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Two symbolic  alloys, Ti\u201312Mo\u20136Zr\u20132Fe and Ti\u201335Nb\u20137Zr\u20135Ta, showed an elastic modulus of 74\u201386 GPa and 55 GPa respectively and excellent biocompatibility",
+        "data_id": 4,
+        "pred_set": [
+            {
+                "M": "Ti\u201312Mo\u20136Zr\u20132Fe",
+                "F": "elastic modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201312Mo\u20136Zr\u20132Fe",
+                "F": "elastic modulus",
+                "VoF": "74\u201386 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb\u20137Zr\u20135Ta",
+                "F": "elastic modulus",
+                "VoF": "74\u201386 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb\u20137Zr\u20135Ta",
+                "F": "elastic modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbMoTaW",
+                "F": "compressive yield strength",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaWV",
+                "F": "compressive yield strength",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ],
+        "text": "Refractory NbMoTaW and NbMoTaWV HEAs have compressive yield strength values of 1058 MPa and 1246 MPa at room temperature, respectively.",
+        "data_id": 5,
+        "pred_set": [
+            {
+                "M": "NbMoTaW",
+                "F": "compressive yield strength",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaW",
+                "F": "yield strength",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaWV",
+                "F": "yield strength",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaWV",
+                "F": "compressive yield strength",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaWV",
+                "F": "yield strength",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaW",
+                "F": "yield strength",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaW",
+                "F": "compressive yield strength",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "NbMoTaWV",
+                "F": "compressive yield strength",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "strength",
+                "VoF": "953 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "strength",
+                "VoF": "875 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The tensile properties of Ti\u20136Cr\u20135Mo\u20135V\u20134Al alloys in solution treated conditions are listed in Table 2. The solution treated alloy has a moderate strength level with an excellent ductility. The alloy solution treated at 760  C exhibits a little higher strength (953 MPa) than that at 800  C (875 MPa) but both the two conditions share the same ductility level (about 22% in elongation).",
+        "data_id": 6,
+        "pred_set": [
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "strength",
+                "VoF": "22%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "elongation",
+                "VoF": "875 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "strength",
+                "VoF": "875 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "strength",
+                "VoF": "953 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "elongation",
+                "VoF": "953 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TNF0",
+                "F": "yield strength",
+                "VoF": "785 \u00b1 7 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TNF2",
+                "F": "yield strength",
+                "VoF": "1097 \u00b1 20 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The TNF0 alloy exhibits the lowest yield strength  (785 \u00b1 7 MPa) among all the investigated alloys due to having only one solute element (i.e. Fe) in the alloy composition. yield strength then increases to 1097 \u00b1 20 MPa for the TNF2 alloy due to having two solute elements (i.e. Fe and Cr) in the alloy composition as well as  having the lowest \u03b2 grain size (42 \u00b5m) among all the investigated alloys",
+        "data_id": 7,
+        "pred_set": [
+            {
+                "M": "TNF0",
+                "F": "yield strength",
+                "VoF": "785 \u00b1 7 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TNF2",
+                "F": "yield strength",
+                "VoF": "785 \u00b1 7 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TNF2",
+                "F": "yield strength",
+                "VoF": "1097 \u00b1 20 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "bending strength",
+                "VoF": "1749 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "modulus",
+                "VoF": "65 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The a phase-dominated binary Ti\u20137.5Mo alloy had a bending strength (1749 MPa) and modulus (65 GPa) lower than all those containing iron.",
+        "data_id": 8,
+        "pred_set": [
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "bending strength",
+                "VoF": "65 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "bending strength",
+                "VoF": "1749 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "modulus",
+                "VoF": "65 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20137.5Mo",
+                "F": "modulus",
+                "VoF": "1749 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "strength",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "elongation",
+                "VoF": "6.5%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "It should be noted that 523 K HT of (Ti\u201335Nb)\u20134Sn exhibits high strength over 800 MPa with an appreciable elongation to fracture of 6.5%.",
+        "data_id": 10,
+        "pred_set": [
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "elongation",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "elongation",
+                "VoF": "6.5%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "strength",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "elongation",
+                "VoF": "6.5%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "strength",
+                "VoF": "6.5%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "elongation",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "strength",
+                "VoF": "6.5%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "strength",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "FeCoCrNiMn",
+                "F": "UTS",
+                "VoF": "990 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "FeCoCrNiMn",
+                "F": "elongation",
+                "VoF": "35 pct",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Shahmir et al. [23] have processed ultrafine-grained FeCoCrNiMn HEA by ECAP, showing that the UTS reaches 990 MPa with an elongation to failure of approximately 35 pct after four passes.",
+        "data_id": 11,
+        "pred_set": [
+            {
+                "M": "FeCoCrNiMn",
+                "F": "elongation",
+                "VoF": "990 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "FeCoCrNiMn",
+                "F": "UTS",
+                "VoF": "35 pct",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "FeCoCrNiMn",
+                "F": "elongation",
+                "VoF": "35 pct",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "FeCoCrNiMn",
+                "F": "UTS",
+                "VoF": "990 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Tensile strength",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Young\u2019s modulus",
+                "VoF": "52 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " Tensile strength of (Ti\u201335Nb)\u20134Sn heat treated at 523 K after cold rolling increases over 800 MPa with keeping low Young\u2019s modulus of 52 GPa which could be related to work hardening, grain refinement and  precipitation.",
+        "data_id": 12,
+        "pred_set": [
+            {
+                "M": "",
+                "F": "Young\u2019s modulus",
+                "VoF": "52 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "Tensile strength",
+                "VoF": "52 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Young\u2019s modulus",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Tensile strength",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "",
+                "F": "Young\u2019s modulus",
+                "VoF": "800 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Tensile strength",
+                "VoF": "52 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201335Nb)\u20134Sn",
+                "F": "Young\u2019s modulus",
+                "VoF": "52 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "specific strength",
+                "VoF": "263  kPa m3 kg-1",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "ductility",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "However, the AlNbTiVZr0.5 alloy (marked with the star) combines high specific strength of \u2248 263  kPa m3 kg-1 with ductility of 50%, i.e. has advantages of both mentioned groups of the alloys.",
+        "data_id": 13,
+        "pred_set": [
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "specific strength",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "ductility",
+                "VoF": "263  kPa m3 kg-1",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "ductility",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlNbTiVZr0.5",
+                "F": "specific strength",
+                "VoF": "263  kPa m3 kg-1",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "compressive yield strength",
+                "VoF": "1316 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "hardness",
+                "VoF": "492 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The CoCrFeNiTa0.4 HEA manifest the promising mechanical properties with the compressive yield strength and hardness as high as 1316 MPa and 492 HV, respectively",
+        "data_id": 14,
+        "pred_set": [
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "hardness",
+                "VoF": "1316 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "compressive yield strength",
+                "VoF": "492 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "hardness",
+                "VoF": "492 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrFeNiTa0.4",
+                "F": "compressive yield strength",
+                "VoF": "1316 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "UTS",
+                "VoF": "1113 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "ultimate tensile strength",
+                "VoF": "1350 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Particularly, Guo et al. have reported the UTS value for \u03b2-type Ti-25Nb-2Mo-4Sn (wt%) alloys approximately 1113 MPa whereas the ultimate tensile strength in the present case was found to be approximately 1350 MPa, which is considerably higher than that reported for Ti-25Nb-2Mo-4Sn alloys",
+        "data_id": 15,
+        "pred_set": [
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "ultimate tensile strength",
+                "VoF": "1113 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "UTS",
+                "VoF": "1113 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "ultimate tensile strength",
+                "VoF": "1350 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-25Nb-2Mo-4Sn",
+                "F": "UTS",
+                "VoF": "1350 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "1390\u00b175 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "6%",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ],
+        "text": "The TiZrNbTaMo HEA exhibits room temperature yield strength of \u03c3y=1390\u00b175 MPa and apparent plastic strain of \u03b5p \u2248 6% prior to failure.",
+        "data_id": 16,
+        "pred_set": [
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "1390\u00b175 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "\u03c3y",
+                "VoF": "1390\u00b175 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "\u03c3y",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "1390\u00b175 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yield strength",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "ductility",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "It can be seen in Fig. 2 that the Ti-12Mo-5Zr alloy shows excellent combination of improved yield strength (> 650 MPa), high ductility (uniform ductility 30%) and work-hardening behaviour",
+        "data_id": 17,
+        "pred_set": [
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yield strength",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "ductility",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yield strength",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "ductility",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TTN",
+                "F": "Young\u2019s modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CP Ti",
+                "F": "Young\u2019s modulus",
+                "VoF": "105 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " Consequently, a considerably lower Young\u2019s modulus (55 GPa) is obtained for the TTN alloy compared to that of CP Ti (105 GPa).",
+        "data_id": 18,
+        "pred_set": [
+            {
+                "M": "TTN",
+                "F": "Young\u2019s modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CP Ti",
+                "F": "Young\u2019s modulus",
+                "VoF": "105 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TTN",
+                "F": "Young\u2019s modulus",
+                "VoF": "105 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CP Ti",
+                "F": "Young\u2019s modulus",
+                "VoF": "55 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "75 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "110 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            }
+        ],
+        "text": "At 1000\u00b0C the yield strength of the alloys decreases pronouncedly, to 110 MPa for the  AlNbTiV alloy and to 75 MPa for the AlCr1.5NbTiV alloy",
+        "data_id": 19,
+        "pred_set": [
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "75 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "110 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "110 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "75 MPa",
+                "C": "",
+                "VoC": "1000\u00b0C"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "MoNbFeCrV",
+                "F": "yield strength",
+                "VoF": "2663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MoNbFeCrV",
+                "F": "compressive strength",
+                "VoF": "2688 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "It is noted that the MoNbFeCrV alloy  also shows the highest yield strength of 2663 MPa and the  highest compressive strength of 2688 MPa.",
+        "data_id": 20,
+        "pred_set": [
+            {
+                "M": "MoNbFeCrV",
+                "F": "yield strength",
+                "VoF": "2688 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MoNbFeCrV",
+                "F": "yield strength",
+                "VoF": "2663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MoNbFeCrV",
+                "F": "compressive strength",
+                "VoF": "2688 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MoNbFeCrV",
+                "F": "compressive strength",
+                "VoF": "2663 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ta20Nb20W20Mo20V20",
+                "F": "sigma0.2",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ta25Nb25W25Mo25",
+                "F": "sigma0.2",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The curves of Ta20Nb20W20Mo20V20 and Ta25Nb25W25Mo25 alloys, which have sigma0.2 = 1246 MPa and 1058 MPa, respectively.",
+        "data_id": 21,
+        "pred_set": [
+            {
+                "M": "Ta25Nb25W25Mo25",
+                "F": "sigma0.2",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ta25Nb25W25Mo25",
+                "F": "sigma0.2",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ta20Nb20W20Mo20V20",
+                "F": "sigma0.2",
+                "VoF": "1246 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ta20Nb20W20Mo20V20",
+                "F": "sigma0.2",
+                "VoF": "1058 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "ultimate tensile strength",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "fracture toughness",
+                "VoF": "73 to 94 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al alloy is a new metastable beta alloy developed by BaoTi Group as thick-section structural materials for aerospace applications. Its design was to achieve an excellent combination of high strength and good ductility based on the multicomponent strengthening. The alloy was reported to exhibit an ultimate tensile strength around 1250 MPa and fracture toughness (KIC) levels from 73 to 94 MPa m1/2 after solution and aging treatment",
+        "data_id": 22,
+        "pred_set": [
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "fracture toughness",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "ultimate tensile strength",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "fracture toughness",
+                "VoF": "73 to 94 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u20136Cr\u20135Mo\u20135V\u20134Al",
+                "F": "ultimate tensile strength",
+                "VoF": "73 to 94 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "hardness",
+                "VoF": "343 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "elastic modulus",
+                "VoF": "92 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "the hardness and elastic modulus values reach their minimum (343 HV, 92 GPa) for Ti\u201310Fe\u201310Ta alloy with a dominant b phase structure.",
+        "data_id": 23,
+        "pred_set": [
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "hardness",
+                "VoF": "343 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "elastic modulus",
+                "VoF": "343 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "elastic modulus",
+                "VoF": "92 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Fe\u201310Ta",
+                "F": "hardness",
+                "VoF": "92 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "ultimate compressive strength",
+                "VoF": "~2 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "plastic strain",
+                "VoF": "33.6%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Mechanical properties evaluation reveals the highest ultimate compressive strength (~2 GPa) and superior plastic strain (33.6%) in Ti-33Zr-3Fe-4Cr alloy.",
+        "data_id": 24,
+        "pred_set": [
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "plastic strain",
+                "VoF": "33.6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "ultimate compressive strength",
+                "VoF": "~2 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "plastic strain",
+                "VoF": "~2 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-33Zr-3Fe-4Cr",
+                "F": "ultimate compressive strength",
+                "VoF": "33.6%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "elastic modulus",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "yield stress",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "In summary, a metastable \u03b2-type Ti\u201330Nb\u20131Mo\u20134Sn alloy with ultralow elastic modulus and high strength was fabricated. Although the alloy exhibits low yielding stress in its solution state owing to the presence of coarse \u03b1`` martensitic laths, cold rolling plus annealing treatment can result in the combination of high yield stress of 1000 MPa and low elastic modulus of 45 GPa.",
+        "data_id": 25,
+        "pred_set": [
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "yield stress",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "yield stress",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "elastic modulus",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201330Nb\u20131Mo\u20134Sn",
+                "F": "elastic modulus",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "yield strength",
+                "VoF": "1,288 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "elongation",
+                "VoF": "8%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Indeed, aging at 482\u00b0C for 8 h  resulted in the highest yield strength  (1,288 MPa) observed for Ti-35Nb-7Zr- 5Ta-0.68O with the tensile ductility still  remaining within acceptable limits (i.e.,  8% elongation).",
+        "data_id": 26,
+        "pred_set": [
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "elongation",
+                "VoF": "8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "elongation",
+                "VoF": "1,288 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "yield strength",
+                "VoF": "8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-35Nb-7Zr- 5Ta-0.68O",
+                "F": "yield strength",
+                "VoF": "1,288 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ductility",
+                "VoF": "15%",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ],
+        "text": "Wu et al. [12] demonstrated first room temperature tensile behavior of Hf25Nb25Ti25Zr25 HEA. The homogenized alloy exhibited yield strength of about 879 MPa that was  accompanied by a room temperature ductility of about 15%.",
+        "data_id": 27,
+        "pred_set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ductility",
+                "VoF": "15%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ductility",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "15%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "HfMoTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "404 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoNbTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "556 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            }
+        ],
+        "text": "HfMoTaTiZr and  HfMoNbTaTiZr alloys have the compressive yield strength of 404 MPa and 556 MPa at 1200 \u00b0C",
+        "data_id": 28,
+        "pred_set": [
+            {
+                "M": "HfMoTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "404 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoNbTaTiZr",
+                "F": "yield strength",
+                "VoF": "556 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoNbTaTiZr",
+                "F": "yield strength",
+                "VoF": "404 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoNbTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "556 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoTaTiZr",
+                "F": "yield strength",
+                "VoF": "404 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoTaTiZr",
+                "F": "yield strength",
+                "VoF": "556 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "556 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "HfMoNbTaTiZr",
+                "F": "compressive yield strength",
+                "VoF": "404 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "ductility",
+                "VoF": "0.15",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "yield strength",
+                "VoF": "1210 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " The addition of 1 wt% Fe into our previously designed Ti-7Mo-3Cr alloy can efficiently control the growth of \u03c9 phase following air-cooling, resulting in a ultrahigh yield strength of 1210 MPa with large ductility of 0.15",
+        "data_id": 29,
+        "pred_set": [
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "yield strength",
+                "VoF": "1210 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "yield strength",
+                "VoF": "0.15",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "ductility",
+                "VoF": "1210 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-7Mo-3Cr",
+                "F": "ductility",
+                "VoF": "0.15",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "ultimate strength",
+                "VoF": "987 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "modulus",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "In summary, by alloying and cold rolling plus annealing treatment, a metastable b-type Ti-30Nb- 1Mo-4Sn alloy with ultralow modulus of 45 GPa and high ultimate strength of 987 MPa was prepared.",
+        "data_id": 30,
+        "pred_set": [
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "modulus",
+                "VoF": "987 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "ultimate strength",
+                "VoF": "987 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "ultimate strength",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-30Nb- 1Mo-4Sn",
+                "F": "modulus",
+                "VoF": "45 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201320Mo",
+                "F": "elastic modulus",
+                "VoF": "75 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Mo",
+                "F": "elastic modulus",
+                "VoF": "93 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "It can be noticed that the ST Ti\u201320Mo alloy has the lowest elastic modulus of 75 GPa and the ST Ti\u201310Mo alloy has the highest modulus of 93 GPa.",
+        "data_id": 31,
+        "pred_set": [
+            {
+                "M": "Ti\u201320Mo",
+                "F": "elastic modulus",
+                "VoF": "93 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Mo",
+                "F": "elastic modulus",
+                "VoF": "75 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Mo",
+                "F": "elastic modulus",
+                "VoF": "93 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Mo",
+                "F": "elastic modulus",
+                "VoF": "75 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Mo",
+                "F": "elastic modulus",
+                "VoF": "75 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Mo",
+                "F": "elastic modulus",
+                "VoF": "93 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201310Mo",
+                "F": "elastic modulus",
+                "VoF": "93 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Mo",
+                "F": "elastic modulus",
+                "VoF": "75 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "elastic modulus",
+                "VoF": "82 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "plastic strain",
+                "VoF": "38%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " The lowest elastic modulus (82 GPa) and highest plastic strain (38%) are observed in full \u03b2 Ti-11Nb-9Fe alloy",
+        "data_id": 32,
+        "pred_set": [
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "elastic modulus",
+                "VoF": "38%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "plastic strain",
+                "VoF": "82 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "plastic strain",
+                "VoF": "38%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-11Nb-9Fe",
+                "F": "elastic modulus",
+                "VoF": "82 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "Young's modulus",
+                "VoF": "70\u201390 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "strength",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "the thermo-mechanically treated Ti\u201315Zr\u20135Cr\u20132Al alloy could reach a strength of 1250 MPa and achieve a moderate Young's modulus, such as in a range of 70\u201390 GPa.",
+        "data_id": 33,
+        "pred_set": [
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "strength",
+                "VoF": "70\u201390 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "strength",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "Young's modulus",
+                "VoF": "70\u201390 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201315Zr\u20135Cr\u20132Al",
+                "F": "Young's modulus",
+                "VoF": "1250 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201315Nb",
+                "F": "hardness",
+                "VoF": "413",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Nb",
+                "F": "hardness",
+                "VoF": "332 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Accordingly, they obtained significantly elevated hardness values than those shown in Fig. 4a and  Table 1, such as 413 and 332 HV 0.5, for the Ti\u201315Nb and Ti\u201320Nb (wt. %) alloys, respectively.",
+        "data_id": 34,
+        "pred_set": [
+            {
+                "M": "Ti\u201315Nb",
+                "F": "hardness",
+                "VoF": "413",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Nb",
+                "F": "hardness",
+                "VoF": "413",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201320Nb",
+                "F": "hardness",
+                "VoF": "332 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201315Nb",
+                "F": "hardness",
+                "VoF": "332 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u20136Al\u20134V",
+                "F": "Young\u2019s modulus",
+                "VoF": "120 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201312Mo\u20135Ta",
+                "F": "Young\u2019s modulus",
+                "VoF": "74 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "In the work of Gordin et al. [7], the ultrasonic technique was used to measure Young\u2019s modulus of the Ti\u201312Mo\u20135Ta alloy as well in the Ti\u20136Al\u20134V alloy. The values were 74 GPa and 120 GPa, respectively",
+        "data_id": 35,
+        "pred_set": [
+            {
+                "M": "Ti\u201312Mo\u20135Ta",
+                "F": "Young\u2019s modulus",
+                "VoF": "120 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201312Mo\u20135Ta",
+                "F": "Young\u2019s modulus",
+                "VoF": "74 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "elongation",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yielding stress",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The Ti-12Mo-5Zr alloy displays excellent combination of improved yielding stress (> 650 MPa), high ductility (uniform elongation 30%) and work-hardening behaviour.",
+        "data_id": 37,
+        "pred_set": [
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "elongation",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yielding stress",
+                "VoF": "30%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "elongation",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-12Mo-5Zr",
+                "F": "yielding stress",
+                "VoF": "> 650 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "CrFeNi2Al",
+                "F": "ultimate strength",
+                "VoF": "1357 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CrFeNi2Al",
+                "F": "elongation",
+                "VoF": "6.4%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " The hypereutectic CrFeNi2Al alloy shows excellent mechanical properties  with an ultimate strength of 1357 MPa and a total elongation of 6.4% at the cast  condition",
+        "data_id": 38,
+        "pred_set": [
+            {
+                "M": "CrFeNi2Al",
+                "F": "ultimate strength",
+                "VoF": "6.4%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CrFeNi2Al",
+                "F": "elongation",
+                "VoF": "1357 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CrFeNi2Al",
+                "F": "elongation",
+                "VoF": "6.4%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CrFeNi2Al",
+                "F": "ultimate strength",
+                "VoF": "1357 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Al0.3CoCrFeMnNi",
+                "F": "yield strength",
+                "VoF": "0.97 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Al0.3CoCrFeMnNi",
+                "F": "yield strength",
+                "VoF": "1.15 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The yield strength of Al0.3CoCrFeMnNi is 0.97 GPa [20,21]. The addition of 0.5 vol% Y2O3 results in the Y2O3-reinforced Al0.3CoCrFeMnNi-based composite (ODS HEA), which exhibited an increased yield strength of 1.15 GPa.",
+        "data_id": 39,
+        "pred_set": [
+            {
+                "M": "Al0.3CoCrFeMnNi",
+                "F": "yield strength",
+                "VoF": "0.97 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Al0.3CoCrFeMnNi",
+                "F": "yield strength",
+                "VoF": "1.15 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "fracture strain",
+                "VoF": "41%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "recovery ratio",
+                "VoF": "58%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Among the developed Ti-xCr-3Sn alloys, Ti-6Cr-3Sn alloy showed maximum ductility (41% fracture strain), maximum (58%) recovery ratio due to shape memory effect and maximum pseoudoelastic response due to stress induced martensitic transformation and twinning deformation mode.",
+        "data_id": 40,
+        "pred_set": [
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "fracture strain",
+                "VoF": "58%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "recovery ratio",
+                "VoF": "58%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-xCr-3Sn",
+                "F": "recovery ratio",
+                "VoF": "41%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-xCr-3Sn",
+                "F": "fracture strain",
+                "VoF": "41%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "recovery ratio",
+                "VoF": "41%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-xCr-3Sn",
+                "F": "fracture strain",
+                "VoF": "58%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-xCr-3Sn",
+                "F": "recovery ratio",
+                "VoF": "58%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-6Cr-3Sn",
+                "F": "fracture strain",
+                "VoF": "41%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    }
+]

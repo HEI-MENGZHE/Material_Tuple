@@ -1,0 +1,3421 @@
+[
+    {
+        "set": [
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "158 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1020 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "52 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "685 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            }
+        ],
+        "text": "The yield strength of the AlNbTiV gradually decreased from 1020 MPa at room temperature to 685 MPa at 800 \u00b0C, and then dropped to 158 MPa at 1000 \u00b0C to 52 MPa at 1200 \u00b0C",
+        "data_id": 1,
+        "pred_set": [
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1020 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1020 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "158 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "158 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "158 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "52 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "685 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1020 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "158 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "52 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "52 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "685 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1020 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "685 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "685 MPa",
+                "C": "",
+                "VoC": "1200 \u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "52 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TiZrNbTaMo",
+                "F": "compressive yield strength",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Vickers microhardness",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Young's modulus",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": ". The TiZrNbTaMo HEA exhibited Young's modulus of 153 GPa, Vickers microhardness of 4.9 GPa, compressive yield strength of \u03c3y=1390MPa and apparent plastic strain of \u03b5p \u2248 6% prior to failure.",
+        "data_id": 4,
+        "pred_set": [
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Vickers microhardness",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Vickers microhardness",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Young's modulus",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Vickers microhardness",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "compressive yield strength",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "compressive yield strength",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Young's modulus",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Vickers microhardness",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Young's modulus",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "compressive yield strength",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "Young's modulus",
+                "VoF": "153 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "compressive yield strength",
+                "VoF": "4.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "yield strength",
+                "VoF": "1390MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrNbTaMo",
+                "F": "plastic strain",
+                "VoF": "6%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1550 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1050 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1370 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            }
+        ],
+        "text": "But difference  between the AlCrNbTiV and AlCr1.5NbTiV alloys having, for example, yield strength of 1550 MPa and 1700 MPa respectively at room temperature, and yield strength of 1050 MPa 1370 MPa at 600\u00b0C",
+        "data_id": 5,
+        "pred_set": [
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1050 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1550 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1550 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1550 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1550 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1050 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            },
+            {
+                "M": "AlCrNbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1050 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1050 MPa",
+                "C": "",
+                "VoC": "600\u00b0C"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elastic recovery strain",
+                "VoF": "4.3%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "Young\u2019s modulus",
+                "VoF": "64 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "ultimate tensile strength",
+                "VoF": "710 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elongation",
+                "VoF": "13%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Ti\u201324Nb\u20132Zr alloy subjected to aging treatment at 573K for 7.2 ks exhibited an ultimate tensile strength of 710 MPa, an elongation of 13%, a Young\u2019s modulus of 64 GPa, and a super-elastic recovery strain of 4.3%.",
+        "data_id": 6,
+        "pred_set": [
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "Young\u2019s modulus",
+                "VoF": "4.3%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elongation",
+                "VoF": "710 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elongation",
+                "VoF": "64 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elongation",
+                "VoF": "4.3%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "Young\u2019s modulus",
+                "VoF": "64 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "Young\u2019s modulus",
+                "VoF": "13%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "ultimate tensile strength",
+                "VoF": "710 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "ultimate tensile strength",
+                "VoF": "64 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "elongation",
+                "VoF": "13%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "ultimate tensile strength",
+                "VoF": "4.3%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "Young\u2019s modulus",
+                "VoF": "710 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti\u201324Nb\u20132Zr",
+                "F": "ultimate tensile strength",
+                "VoF": "13%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive fracture strength",
+                "VoF": "4027 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "plastic strain",
+                "VoF": "27.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive plastic strain",
+                "VoF": "10.1%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive yield strength",
+                "VoF": "2229 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The AlCrFeNiMo0.5 HEA possesses the highest compressive fracture strength of 4027 MPa and the largest compressive plastic strain of 27.9%, while the AlCrFeNiMo0.5Ti0.5 HEA has the highest compressive yield strength of 2229 MPa and a compressive plastic strain of 10.1%.",
+        "data_id": 7,
+        "pred_set": [
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive fracture strength",
+                "VoF": "4027 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive plastic strain",
+                "VoF": "4027 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive fracture strength",
+                "VoF": "4027 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive plastic strain",
+                "VoF": "27.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive plastic strain",
+                "VoF": "2229 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive plastic strain",
+                "VoF": "10.1%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive plastic strain",
+                "VoF": "27.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive plastic strain",
+                "VoF": "2229 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive fracture strength",
+                "VoF": "10.1%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive fracture strength",
+                "VoF": "2229 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive plastic strain",
+                "VoF": "10.1%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5",
+                "F": "compressive fracture strength",
+                "VoF": "27.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive fracture strength",
+                "VoF": "10.1%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive plastic strain",
+                "VoF": "4027 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive fracture strength",
+                "VoF": "2229 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "AlCrFeNiMo0.5Ti0.5",
+                "F": "compressive fracture strength",
+                "VoF": "27.9%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti74Nb26",
+                "F": "s0.2",
+                "VoF": "447 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "se",
+                "VoF": "390 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "se",
+                "VoF": "581 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "s0.2",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " The Ti74Nb26 alloy has the lowest se value (390 MPa) and s0.2 value (447 MPa), however, the Ti66Mo8Nb26 alloy has the largest se value (581 MPa) and s0.2 value (663 MPa) in the present alloys. ",
+        "data_id": 8,
+        "pred_set": [
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "se",
+                "VoF": "581 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "s0.2",
+                "VoF": "581 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "se",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "se",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "s0.2",
+                "VoF": "447 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "se",
+                "VoF": "581 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "s0.2",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "s0.2",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "se",
+                "VoF": "447 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "s0.2",
+                "VoF": "447 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "se",
+                "VoF": "390 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "se",
+                "VoF": "390 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "s0.2",
+                "VoF": "581 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "se",
+                "VoF": "447 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "s0.2",
+                "VoF": "390 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti74Nb26",
+                "F": "s0.2",
+                "VoF": "390 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic elongation",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Fig. 2 shows the tensile true stress-stain curve of Hf25Nb25Ti25Zr25 alloy. It can be derived that this HEA has the yield strength (YS) of 879 MPa, the ultimate tensile strength (UTS) of  969 MPa, and the elastic elongation and plastic elongation of  0.9%, and  14.9%, respectively",
+        "data_id": 9,
+        "pred_set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic elongation",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic elongation",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic elongation",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "MoNbTaTiV",
+                "F": "fracture strain",
+                "VoF": "30%",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "yield strength",
+                "VoF": "1.4 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "hardness",
+                "VoF": "443 Hv",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "compressive fracture strength",
+                "VoF": "2.45 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ],
+        "text": "MoNbTaTiV exhibits high hardness at 443 Hv, high yield strength at 1.4 GPa, and good compressive fracture strength at 2.45 GPa with a fracture strain of 30% at room temperature.",
+        "data_id": 10,
+        "pred_set": [
+            {
+                "M": "MoNbTaTiV",
+                "F": "compressive fracture strength",
+                "VoF": "443 Hv",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "yield strength",
+                "VoF": "1.4 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "fracture strain",
+                "VoF": "1.4 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "hardness",
+                "VoF": "1.4 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "hardness",
+                "VoF": "443 Hv",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "yield strength",
+                "VoF": "2.45 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "hardness",
+                "VoF": "30%",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "yield strength",
+                "VoF": "443 Hv",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "hardness",
+                "VoF": "2.45 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "yield strength",
+                "VoF": "30%",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "compressive fracture strength",
+                "VoF": "1.4 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "fracture strain",
+                "VoF": "443 Hv",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "fracture strain",
+                "VoF": "2.45 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "fracture strain",
+                "VoF": "30%",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "compressive fracture strength",
+                "VoF": "2.45 GPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "MoNbTaTiV",
+                "F": "compressive fracture strength",
+                "VoF": "30%",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Fig. 2 shows the tensile true stress-stain curve of Hf25Nb25Ti25Zr25 alloy. It can be derived that this HEA has the yield strength (YS) of 879 MPa, the ultimate tensile strength (UTS) of 969 MPa, and the elastic and plastic elongation of 0.9%, and 14.9%, respectively",
+        "data_id": 11,
+        "pred_set": [
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic and plastic elongation",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "0.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "ultimate tensile strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic and plastic elongation",
+                "VoF": "879 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "plastic elongation",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic and plastic elongation",
+                "VoF": "14.9%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "elastic and plastic elongation",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Hf25Nb25Ti25Zr25",
+                "F": "yield strength",
+                "VoF": "969 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "yield strength",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "elastic energy",
+                "VoF": "4.78 _x0003_ 106 J m-3",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "Vickers hardness",
+                "VoF": "242 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Ti66Mo8Nb26 alloy with the large Vickers hardness (242 HV) has high yield strength (663 MPa), and large elastic energy (4.78 _x0003_ 106 J m-3) can consider as biomedical and functional materials.",
+        "data_id": 12,
+        "pred_set": [
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "yield strength",
+                "VoF": "4.78 _x0003_ 106 J m-3",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "yield strength",
+                "VoF": "242 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "yield strength",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "Vickers hardness",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "elastic energy",
+                "VoF": "242 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "Vickers hardness",
+                "VoF": "4.78 _x0003_ 106 J m-3",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "Vickers hardness",
+                "VoF": "242 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "elastic energy",
+                "VoF": "4.78 _x0003_ 106 J m-3",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti66Mo8Nb26",
+                "F": "elastic energy",
+                "VoF": "663 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ni3.0",
+                "F": "yield strength",
+                "VoF": "268 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "yield strength",
+                "VoF": "544 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "hardness",
+                "VoF": "279.6 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "hardness",
+                "VoF": "299.2 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The yield strength and the hardness of Ni2.0 and Ni3.0 alloys are 544 MPa, 268 MPa, and 299.2 HV, 279.6 HV, respectively",
+        "data_id": 13,
+        "pred_set": [
+            {
+                "M": "Ni3.0",
+                "F": "hardness",
+                "VoF": "544 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "hardness",
+                "VoF": "299.2 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "hardness",
+                "VoF": "279.6 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "yield strength",
+                "VoF": "299.2 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "yield strength",
+                "VoF": "268 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "yield strength",
+                "VoF": "279.6 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "hardness",
+                "VoF": "544 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "hardness",
+                "VoF": "268 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "hardness",
+                "VoF": "279.6 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "yield strength",
+                "VoF": "299.2 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "yield strength",
+                "VoF": "279.6 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "yield strength",
+                "VoF": "544 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "yield strength",
+                "VoF": "544 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni2.0",
+                "F": "hardness",
+                "VoF": "299.2 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "yield strength",
+                "VoF": "268 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ni3.0",
+                "F": "hardness",
+                "VoF": "268 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "WMoNbCrTi",
+                "F": "hardness",
+                "VoF": "10.40 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture strain",
+                "VoF": "9.8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture toughness",
+                "VoF": "7.16 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "compressive fracture strength",
+                "VoF": "2765 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " The WMoNbCrTi HEA prepared from 30 h milling powder shows the highest hardness value of 10.40 GPa. However, the alloy prepared from the 5 h milling powder exhibits the maximum fracture toughness (7.16 MPa m1/2), compressive fracture strength (2765 MPa) and fracture strain (9.8%), respectively.",
+        "data_id": 14,
+        "pred_set": [
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture strain",
+                "VoF": "7.16 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture toughness",
+                "VoF": "2765 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture strain",
+                "VoF": "2765 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "compressive fracture strength",
+                "VoF": "9.8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "hardness",
+                "VoF": "2765 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture strain",
+                "VoF": "10.40 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "compressive fracture strength",
+                "VoF": "2765 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "compressive fracture strength",
+                "VoF": "10.40 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture toughness",
+                "VoF": "7.16 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture toughness",
+                "VoF": "9.8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "hardness",
+                "VoF": "7.16 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture toughness",
+                "VoF": "10.40 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "compressive fracture strength",
+                "VoF": "7.16 MPa m1/2",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "hardness",
+                "VoF": "10.40 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "fracture strain",
+                "VoF": "9.8%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "WMoNbCrTi",
+                "F": "hardness",
+                "VoF": "9.8%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "A hardness of  338 HV, a Young\u2019s modulus of 94 GPa, a 0.2% proof stress of 1023 MPa, an ultimate tensile strength  of 1048 MPa and elongation of 19% were obtained for Ti-9Mn.",
+        "data_id": 15,
+        "pred_set": [
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "elongation",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "ultimate tensile strength",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "1023 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "proof stress",
+                "VoF": "1048 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "hardness",
+                "VoF": "19%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "134.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "C44",
+                "VoF": "28 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "78.5 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "0.402",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "C11",
+                "VoF": "172 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Elastic properties of as-cast TiHfZrTaNb high entropy alloy were investigated by  ultrasound measurements, yielding G = C44 = 28 GPa and C11 = 172 GPa effective  isotropic elastic constants, allowing computation of the Young\u2019s modulus E, the bulk  modulus B and Poisson ratio n of about 78.5 GPa, 134.6 GPa and 0.402, respectively",
+        "data_id": 17,
+        "pred_set": [
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "0.402",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "172 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "0.402",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "172 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "28 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "134.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "28 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "78.5 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "172 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "bulk  modulus",
+                "VoF": "78.5 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "78.5 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "28 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Young\u2019s modulus",
+                "VoF": "134.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "0.402",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiHfZrTaNb",
+                "F": "Poisson ratio",
+                "VoF": "134.6 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "TiZrAlV",
+                "F": "tensile strength",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elastic modulus",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "yield strength",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elongation",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Specifically, the single b phase that is impossible to achieve in TieV binary alloys was obtained in the TiZrAlV alloy with an increased V content of 7 wt.%.  The alloy with 3 wt.% V had the minimum average elastic modulus (68 GPa) and an average yield strength (690 MPa).  The alloy with 3 wt.% V had favorable comprehensive properties: a maximum average elongation (12.7%) and a high average tensile strength (1358 MPa).",
+        "data_id": 19,
+        "pred_set": [
+            {
+                "M": "TiZrAlV",
+                "F": "yield strength",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elongation",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elastic modulus",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elastic modulus",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elastic modulus",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "yield strength",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "tensile strength",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "yield strength",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elastic modulus",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "yield strength",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elastic modulus",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elongation",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elongation",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "tensile strength",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "yield strength",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "yield strength",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elongation",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "yield strength",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "tensile strength",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elongation",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elastic modulus",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elongation",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "tensile strength",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "tensile strength",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "yield strength",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "tensile strength",
+                "VoF": "690 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elastic modulus",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elongation",
+                "VoF": "68 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TiZrAlV",
+                "F": "elongation",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "tensile strength",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "elastic modulus",
+                "VoF": "1358 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "TieV",
+                "F": "tensile strength",
+                "VoF": "12.7%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "elastic limit",
+                "VoF": "1555 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "elastic limit",
+                "VoF": "1287 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "yield strengths",
+                "VoF": "1389 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "yield strengths",
+                "VoF": "1700 Mpa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "With the addition of Sn element, the elastic limit (se) and offset 0.2% yield strengths (s0.2) values of the alloys are increased from 1287 MPa to 1389 MPa of Ti80Fe20, to 1555 MPa and 1700 Mpa of Ti75Fe20Sn5 alloy, respectively.",
+        "data_id": 20,
+        "pred_set": [
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "elastic limit",
+                "VoF": "1555 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "elastic limit",
+                "VoF": "1389 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "yield strengths",
+                "VoF": "1555 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "yield strengths",
+                "VoF": "1700 Mpa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "elastic limit",
+                "VoF": "1389 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "yield strengths",
+                "VoF": "1287 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "yield strengths",
+                "VoF": "1287 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "yield strengths",
+                "VoF": "1700 Mpa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "elastic limit",
+                "VoF": "1287 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "yield strengths",
+                "VoF": "1555 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "yield strengths",
+                "VoF": "1389 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "elastic limit",
+                "VoF": "1555 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "elastic limit",
+                "VoF": "1287 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "yield strengths",
+                "VoF": "1389 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "elastic limit",
+                "VoF": "1700 Mpa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "elastic limit",
+                "VoF": "1700 Mpa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " the yield stress of CoCrCuFeNi HEAs increased from 300 MPa to 613 MPa with V content increasing from 0 to 16% (atomic ratio, hereafter in at.%). However, the fracture strain decreased from 50% to 28%.",
+        "data_id": 21,
+        "pred_set": [
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "fracture strain",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "462 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "154 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "218 MPa",
+                "C": "",
+                "VoC": "1000 \u00b0C"
+            },
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "303 MPa",
+                "C": "",
+                "VoC": "800 \u00b0C"
+            }
+        ],
+        "text": "The maximum compressive strength is (462 MPa, 800 \u00b0C), (218 MPa, 1000 \u00b0C) and (303 MPa, 800 \u00b0C), (154 MPa, 1000 \u00b0C) for the NbZrTi and NbHfZrTi alloys, respectively",
+        "data_id": 22,
+        "pred_set": [
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "462 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "462 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "218 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "303 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "154 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "303 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbHfZrTi",
+                "F": "compressive strength",
+                "VoF": "218 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbZrTi",
+                "F": "compressive strength",
+                "VoF": "154 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "970 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "560 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ],
+        "text": "The yield strength of the AlNbTiV and  AlCr1.5NbTiV alloys is 1000 MPa and 1700 MPa respectively at room temperature and 560 MPa  and 970 MPa at 800\u00b0C. ",
+        "data_id": 23,
+        "pred_set": [
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "560 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "560 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "970 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1700 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "560 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "970 MPa",
+                "C": "",
+                "VoC": "800\u00b0C"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "970 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlCr1.5NbTiV",
+                "F": "yield strength",
+                "VoF": "970 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "1000 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            },
+            {
+                "M": "AlNbTiV",
+                "F": "yield strength",
+                "VoF": "560 MPa",
+                "C": "",
+                "VoC": "room temperature"
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The compressive yield stress of CoCrCuFeNi HEAs increased from 300 MPa to 613 MPa with V content increasing from 0% to 16%; the compression fracture strain decreased from 50% to 28%.",
+        "data_id": 24,
+        "pred_set": [
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "300 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "28%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "50%",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compression fracture strain",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "compressive yield stress",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CoCrCuFeNi",
+                "F": "yield stress",
+                "VoF": "613 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti77Fe20Sn3",
+                "F": "Er",
+                "VoF": "36.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti79Fe20Sn1",
+                "F": "Er",
+                "VoF": "49.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "Er",
+                "VoF": "33.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "Er",
+                "VoF": "44.9 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "The Er values of Ti80Fe20 and Ti79Fe20Sn1 alloys are 44.9 GPa and 49.4 GPa, respectively, which are larger than those of Ti77Fe20Sn3 (36.4 GPa) and Ti75Fe20Sn5 (33.6 GPa) alloys.",
+        "data_id": 26,
+        "pred_set": [
+            {
+                "M": "Ti80Fe20",
+                "F": "er",
+                "VoF": "44.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti79Fe20Sn1",
+                "F": "er",
+                "VoF": "33.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "er",
+                "VoF": "36.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti79Fe20Sn1",
+                "F": "er",
+                "VoF": "36.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "er",
+                "VoF": "44.9 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "er",
+                "VoF": "36.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "er",
+                "VoF": "33.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti79Fe20Sn1",
+                "F": "er",
+                "VoF": "49.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti80Fe20",
+                "F": "er",
+                "VoF": "49.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "er",
+                "VoF": "49.4 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti75Fe20Sn5",
+                "F": "er",
+                "VoF": "33.6 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti79Fe20Sn1",
+                "F": "er",
+                "VoF": "44.9 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ti-Cu",
+                "F": "ultimate tensile strength",
+                "VoF": "676 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "240 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "UTS",
+                "VoF": "895 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "380 HV",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": " While the heat-treated samples of Ti-Cu presented a hardness of 240 HV and ultimate tensile strength of 676 MPa, the cast samples of Ti-Cu alloy presented a hardness of 380 HV and the UTS of 895 MPa",
+        "data_id": 27,
+        "pred_set": [
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "895 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "240 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "UTS",
+                "VoF": "380 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "380 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "ultimate tensile strength",
+                "VoF": "240 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "ultimate tensile strength",
+                "VoF": "380 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "UTS",
+                "VoF": "240 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "UTS",
+                "VoF": "895 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "UTS",
+                "VoF": "676 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "hardness",
+                "VoF": "676 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "ultimate tensile strength",
+                "VoF": "676 MPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-Cu",
+                "F": "ultimate tensile strength",
+                "VoF": "895 MPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    
+    {
+        "set": [
+            {
+                "M": "Ti-9Mn",
+                "F": "Vickers hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Vickers hardness",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Vickers hardness",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Ti-9Mn, Ti-13Mn, and Ti-18Mn exhibit Vickers hardness (338 HV, 312 HV and 336 HV, respectively) comparable to that of Ti-64 ELI. Ti-9Mn also exhibits the lowest Young\u2019s modulus (94 GPa) among the Ti-(9-18)Mn alloys",
+        "data_id": 29,
+        "pred_set": [
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Vickers hardness",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Vickers hardness",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Young\u2019s modulus",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Vickers hardness",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Vickers hardness",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Vickers hardness",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Vickers hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Vickers hardness",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Vickers hardness",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Vickers hardness",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Vickers hardness",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "312 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Vickers hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-9Mn",
+                "F": "Vickers hardness",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Vickers hardness",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Vickers hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Young\u2019s modulus",
+                "VoF": "336 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-64",
+                "F": "Young\u2019s modulus",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-13Mn",
+                "F": "Vickers hardness",
+                "VoF": "338 HV",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Young\u2019s modulus",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "Ti-18Mn",
+                "F": "Vickers hardness",
+                "VoF": "94 GPa",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    }
+]

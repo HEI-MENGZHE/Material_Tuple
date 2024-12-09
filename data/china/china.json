@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "M": "ZrB2",
+    "F": "thermal conductivity",
+    "VoF": "30 W/m·K to 130 W/m·K",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "ZrB2 ceramics showing that room temperature thermal conductivity for ZrB2 can vary from 30 W/m·K to  130 W/m·K."
+  },
+  {
+    "id": 2,
+    "M": "TiB2-SiC-B4C",
+    "F": "hardness",
+    "VoF": "53 GPa",
+    "C": "indentation load",
+    "VoC": "0.49 N",
+    "text": "Furthermore, when the TiB2-SiC-B4C ceramic was developed with equal volume fractions of the constituents the ceramic exhibited an even higher hardness of 53 GPa at indentation load of 0.49 N."
+  },
+  {
+    "id": 3,
+    "M": "TiB2-SiC-B4C",
+    "F": "hardness",
+    "VoF": "31 GPa",
+    "C": "indentation load",
+    "VoC": "9.8 N",
+    "text": "Neuman et al. reported very high hardness of 31 GPa for TiB2-SiC-B4C ceramics at indentation load of 9.8 N."
+  },
+  {
+    "id": 4,
+    "M": "ZrB2",
+    "F": "tensile strength",
+    "VoF": "152 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "crack bridging by SiC particles and the residual stresses due to mismatch in the co-efficient of thermal expansions between the borides and SiC (tensile strength 152 MPa in ZrB2 and compressive strength 452 MPa in SiC) need to be considered"
+  },
+  {
+    "id": 5,
+    "M": "SiC",
+    "F": "compressive strength",
+    "VoF": "452 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "crack bridging by SiC particles and the residual stresses due to mismatch in the co-efficient of thermal expansions between the borides and SiC (tensile strength 152 MPa in ZrB2 and compressive strength 452 MPa in SiC) need to be considered"
+  },
+  {
+    "id": 6,
+    "M": "ZrB2-MoSi2",
+    "F": "fracture toughness",
+    "VoF": "2.9–4.0 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "In the case of ZrB2-MoSi2, the fracture toughness (2.9–4.0 MPam1/2) was relatively low,"
+  },
+  {
+    "id": 7,
+    "M": "ZrB2-ZrSi2",
+    "F": "flexural strength",
+    "VoF": "585 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "Sha et al. developed ZrB2-ZrSi2. The composite possessed flexural strength of 585 MPa and fracture toughness of 6.87 MPam1/2."
+  },
+  {
+    "id": 8,
+    "M": "ZrB2-ZrSi2",
+    "F": "fracture toughness",
+    "VoF": "6.87 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "Sha et al. developed ZrB2-ZrSi2. The composite possessed flexural strength of 585 MPa and fracture toughness of 6.87 MPam1/2."
+  },
+  {
+    "id": 9,
+    "M": "ZrB2-30 vol% ZrO2f",
+    "F": "flexural strength",
+    "VoF": "667 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "In a different work, ZrB2-30 vol% ZrO2f composite was developed via SPS at 1750 °C, 25 MPa for 10 min. The same possessed relatively high flexural strength of 667 MPa and fracture toughness of 6.2 MPam1/2,"
+  },
+  {
+    "id": 10,
+    "M": "ZrB2-30 vol% ZrO2f",
+    "F": "fracture toughness",
+    "VoF": "6.2 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "In a different work, ZrB2-30 vol% ZrO2f composite was developed via SPS at 1750 °C, 25 MPa for 10 min. The same possessed relatively high flexural strength of 667 MPa and fracture toughness of 6.2 MPam1/2,"
+  },
+  {
+    "id": 11,
+    "M": "ZrB2-30 vol% ZrO2f",
+    "F": "",
+    "VoF": "",
+    "C": "temperature",
+    "VoC": "1750 °C",
+    "text": "In a different work, ZrB2-30 vol% ZrO2f composite was developed via SPS at 1750 °C, 25 MPa for 10 min. The same possessed relatively high flexural strength of 667 MPa and fracture toughness of 6.2 MPam1/2,"
+  },
+  {
+    "id": 12,
+    "M": "ZrB2-30 vol% ZrO2f",
+    "F": "",
+    "VoF": "",
+    "C": "pressure",
+    "VoC": "25 MPa",
+    "text": "In a different work, ZrB2-30 vol% ZrO2f composite was developed via SPS at 1750 °C, 25 MPa for 10 min. The same possessed relatively high flexural strength of 667 MPa and fracture toughness of 6.2 MPam1/2,"
+  },
+  {
+    "id": 13,
+    "M": "ZrB2-30 vol% ZrO2f",
+    "F": "",
+    "VoF": "",
+    "C": "time",
+    "VoC": "10 min",
+    "text": "In a different work, ZrB2-30 vol% ZrO2f composite was developed via SPS at 1750 °C, 25 MPa for 10 min. The same possessed relatively high flexural strength of 667 MPa and fracture toughness of 6.2 MPam1/2,"
+  },
+  {
+    "id": 14,
+    "M": "laminated ZrB2 with 20 vol% SiC",
+    "F": "fracture toughness",
+    "VoF": "12.4 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "Wei et al. prepared laminated ZrB2 with 20 vol% SiC by tape casting, followed by hot pressing, leading to considerably improved fracture toughness (12.4 MPam1/2) and flexural strength (580 MPa)."
+  },
+  {
+    "id": 15,
+    "M": "laminated ZrB2 with 20 vol% SiC",
+    "F": "flexural strength",
+    "VoF": "580 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "Wei et al. prepared laminated ZrB2 with 20 vol% SiC by tape casting, followed by hot pressing, leading to considerably improved fracture toughness (12.4 MPam1/2) and flexural strength (580 MPa)."
+  },
+  {
+    "id": 16,
+    "M": "ZrB2-SiC",
+    "F": "fracture toughness",
+    "VoF": "15.9 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "Recently, Zhang et al. improved the fracture toughness (15.9 MPam1/2) of the ZrB2-SiC composite"
+  },
+  {
+    "id": 17,
+    "M": "HfB2",
+    "F": "hardness",
+    "VoF": "21.8 GPa",
+    "C": "",
+    "VoC": "",
+    "text": "The HfB2 exhibited hardness of 21.8 GPa, flexural strength of 894 MPa and fracture toughness of 7.8 MPam1/2"
+  },
+  {
+    "id": 18,
+    "M": "HfB2",
+    "F": "flexural strength",
+    "VoF": "894 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "The HfB2 exhibited hardness of 21.8 GPa, flexural strength of 894 MPa and fracture toughness of 7.8 MPam1/2"
+  },
+  {
+    "id": 19,
+    "M": "HfB2",
+    "F": "fracture toughness",
+    "VoF": "7.8 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "The HfB2 exhibited hardness of 21.8 GPa, flexural strength of 894 MPa and fracture toughness of 7.8 MPam1/2"
+  },
+  {
+    "id": 20,
+    "M": "ZrB2",
+    "F": "hardness",
+    "VoF": "16 GPa",
+    "C": "",
+    "VoC": "",
+    "text": "The ZrB2 composite exhibited moderate hardness of 16 GPa, flexural strength of 565 MPa and fracture toughness of 8 MPam1/2."
+  },
+  {
+    "id": 21,
+    "M": "ZrB2",
+    "F": "flexural strength",
+    "VoF": "565 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "The ZrB2 composite exhibited moderate hardness of 16 GPa, flexural strength of 565 MPa and fracture toughness of 8 MPam1/2."
+  },
+  {
+    "id": 22,
+    "M": "ZrB2",
+    "F": "fracture toughness",
+    "VoF": "8 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "The ZrB2 composite exhibited moderate hardness of 16 GPa, flexural strength of 565 MPa and fracture toughness of 8 MPam1/2."
+  },
+  {
+    "id": 23,
+    "M": "TiB2-2.5 wt% MoSi2",
+    "F": "hardness",
+    "VoF": "27.6 GPa",
+    "C": "temperature",
+    "VoC": "room temperature (RT)",
+    "text": "Among the borides, TiB2-2.5 wt% MoSi2 reportedly possessed maximum hardness of 27.6 GPa at room temperature (RT) and retained hardness of 10.5 GPa up to 900 °C"
+  },
+  {
+    "id": 24,
+    "M": "TiB2-2.5 wt% MoSi2",
+    "F": "hardness",
+    "VoF": "10.5 GPa",
+    "C": "temperature",
+    "VoC": "900 °C",
+    "text": "Among the borides, TiB2-2.5 wt% MoSi2 reportedly possessed maximum hardness of 27.6 GPa at room temperature (RT) and retained hardness of 10.5 GPa up to 900 °C"
+  },
+  {
+    "id": 25,
+    "M": "SiC",
+    "F": "hardness",
+    "VoF": "33 GPa",
+    "C": "temperature",
+    "VoC": "room temperature (RT)",
+    "text": "On the other hand, SiC reportedly exhibited very high hardness of 33 GPa at RT and decreased to 11.5 GPa at 1000 °C"
+  },
+  {
+    "id": 26,
+    "M": "SiC",
+    "F": "hardness",
+    "VoF": "11.5 GPa",
+    "C": "temperature",
+    "VoC": "1000 °C",
+    "text": "On the other hand, SiC reportedly exhibited very high hardness of 33 GPa at RT and decreased to 11.5 GPa at 1000 °C"
+  },
+  {
+    "id": 27,
+    "M": "HfB2",
+    "F": "hardness",
+    "VoF": "~38 GPa",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "HfB2 is known to exhibit the highest room temperature hardness (~38 GPa), while retaining a moderate hardness of ~8.5 GPa up to 1000 °C"
+  },
+  {
+    "id": 28,
+    "M": "HfB2",
+    "F": "hardness",
+    "VoF": "~8.5 GPa",
+    "C": "temperature",
+    "VoC": "1000 °C",
+    "text": "HfB2 is known to exhibit the highest room temperature hardness (~38 GPa), while retaining a moderate hardness of ~8.5 GPa up to 1000 °C"
+  },
+  {
+    "id": 29,
+    "M": "TiB2",
+    "F": "hardness",
+    "VoF": "25 GPa and 28 GPa",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "Depending on the type and amount of the sinter additive, the room temperature hardness of TiB2 samples is observed to vary between 25 GPa and 28 GPa."
+  },
+  {
+    "id": 30,
+    "M": "TiB2",
+    "F": "elastic modulus",
+    "VoF": "560 GPa",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "Among the di-borides, TiB2 reportedly exhibit highest elastic modulus at room temperature (560 GPa), which gets fairly marginally decreased to 510 GPa with increasing temperature to 1000 °C"
+  },
+  {
+    "id": 31,
+    "M": "TiB2",
+    "F": "elastic modulus",
+    "VoF": "510 GPa",
+    "C": "temperature",
+    "VoC": "1000 °C",
+    "text": "Among the di-borides, TiB2 reportedly exhibit highest elastic modulus at room temperature (560 GPa), which gets fairly marginally decreased to 510 GPa with increasing temperature to 1000 °C"
+  },
+  {
+    "id": 32,
+    "M": "ZrB2",
+    "F": "modulus",
+    "VoF": "520 GPa",
+    "C": "temperature",
+    "VoC": "ambient temperature",
+    "text": "In the case of ZrB2, the modulus decrease may follow an apparent linear trend from 520 GPa at ambient temperature to 370 GPa at a higher temperature of 1300 °C"
+  },
+  {
+    "id": 33,
+    "M": "ZrB2",
+    "F": "modulus",
+    "VoF": "370 GPa",
+    "C": "temperature",
+    "VoC": "1300 °C",
+    "text": "In the case of ZrB2, the modulus decrease may follow an apparent linear trend from 520 GPa at ambient temperature to 370 GPa at a higher temperature of 1300 °C"
+  },
+  {
+    "id": 34,
+    "M": "HfB2",
+    "F": "modulus",
+    "VoF": "~440 GPa",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "The HfB2 ceramics show relatively lower modulus, when compared to the other di-borides and varied from ~440 GPa at room temperature to ~125 GPa at 1600 °C."
+  },
+  {
+    "id": 35,
+    "M": "HfB2",
+    "F": "modulus",
+    "VoF": "~125 GPa",
+    "C": "temperature",
+    "VoC": "1600 °C",
+    "text": "The HfB2 ceramics show relatively lower modulus, when compared to the other di-borides and varied from ~440 GPa at room temperature to ~125 GPa at 1600 °C."
+  },
+  {
+    "id": 36,
+    "M": "HfB2-based composite",
+    "F": "strength",
+    "VoF": "650–750 MPa",
+    "C": "temperature",
+    "VoC": "1600 °C",
+    "text": "The HfB2-based composite could achieve a maximum strength of 650–750 MPa up to 1600 °C"
+  },
+  {
+    "id": 37,
+    "M": "TaB2-10 vol% MoSi2",
+    "F": "flexural strength",
+    "VoF": "626 MPa",
+    "C": "temperature",
+    "VoC": "room temperature",
+    "text": "However, in the case of TaB2-10 vol% MoSi2, the flexural strength decreased significantly from 626 MPa at room temperature to 110 MPa at 1600 °C "
+  },
+  {
+    "id": 38,
+    "M": "TaB2-10 vol% MoSi2",
+    "F": "flexural strength",
+    "VoF": "110 MPa",
+    "C": "temperature",
+    "VoC": "1600 °C",
+    "text": "However, in the case of TaB2-10 vol% MoSi2, the flexural strength decreased significantly from 626 MPa at room temperature to 110 MPa at 1600 °C "
+  },
+  {
+    "id": 39,
+    "M": "4 wt% Ni added ZrB2",
+    "F": "strength",
+    "VoF": "370 MPa",
+    "C": "temperature",
+    "VoC": "",
+    "text": "For example, the strength of 4 wt% Ni added ZrB2 increased from 370 to 630 MPa with increasing temperature (up to 800 °C) and further increasing the temperature resulted drastic reduction in strength (240 MPa at 1000 °C and 20 MPa at 1200 °C)"
+  },
+  {
+    "id": 40,
+    "M": "4 wt% Ni added ZrB2",
+    "F": "strength",
+    "VoF": "630 MPa",
+    "C": "temperature",
+    "VoC": "800 °C",
+    "text": "For example, the strength of 4 wt% Ni added ZrB2 increased from 370 to 630 MPa with increasing temperature (up to 800 °C) and further increasing the temperature resulted drastic reduction in strength (240 MPa at 1000 °C and 20 MPa at 1200 °C)"
+  },
+  {
+    "id": 41,
+    "M": "4 wt% Ni added ZrB2",
+    "F": "strength",
+    "VoF": "240 MPa",
+    "C": "temperature",
+    "VoC": "1000 °C",
+    "text": "For example, the strength of 4 wt% Ni added ZrB2 increased from 370 to 630 MPa with increasing temperature (up to 800 °C) and further increasing the temperature resulted drastic reduction in strength (240 MPa at 1000 °C and 20 MPa at 1200 °C)"
+  },
+  {
+    "id": 42,
+    "M": "4 wt% Ni added ZrB2",
+    "F": "strength",
+    "VoF": "20 MPa",
+    "C": "temperature",
+    "VoC": "1200 °C",
+    "text": "For example, the strength of 4 wt% Ni added ZrB2 increased from 370 to 630 MPa with increasing temperature (up to 800 °C) and further increasing the temperature resulted drastic reduction in strength (240 MPa at 1000 °C and 20 MPa at 1200 °C)"
+  },
+  {
+    "id": 43,
+    "M": "pressureless sintered TiB2",
+    "F": "flexural strength",
+    "VoF": "71–325 Mpa",
+    "C": "",
+    "VoC": "",
+    "text": "With respect to the properties, the reported flexural strength of pressureless sintered TiB2 vary within a wide range of 71–325 Mpa"
+  },
+  {
+    "id": 44,
+    "M": "reaction processed TiB2-TiC",
+    "F": "strength",
+    "VoF": "680 MPa",
+    "C": "",
+    "VoC": "",
+    "text": "A good combination of strength (680 MPa) and fracture toughness (12.2 MPam1/2) is reported for the reaction processed TiB2-TiC ceramics"
+  },
+  {
+    "id": 45,
+    "M": "reaction processed TiB2-TiC",
+    "F": "fracture toughness",
+    "VoF": "12.2 MPam1/2",
+    "C": "",
+    "VoC": "",
+    "text": "A good combination of strength (680 MPa) and fracture toughness (12.2 MPam1/2) is reported for the reaction processed TiB2-TiC ceramics"
+  }
+]

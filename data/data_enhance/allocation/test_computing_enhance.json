@@ -1,0 +1,827 @@
+[
+    {
+        "set": [
+            {
+                "M": "NdNiO3",
+                "F": "retention",
+                "VoF": "1000 s",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Also, the retention of NdNiO3 is about 1000 s which is the best among these materials.",
+        "data_id": 1,
+        "pred_set": [
+            {
+                "M": "NdNiO3",
+                "F": "retention",
+                "VoF": "1000 s",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "SrTiO3",
+                "F": "switching voltage",
+                "VoF": "10 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "endurance",
+                "VoF": "109",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "retention",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "power consumption",
+                "VoF": "5.3 fj",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "SrTiO3 is typically used in calculating big number of synaptic weights with witching voltage of 10 V, endurance of 109, retention of 104 s, power consumption of 5.3 fj.",
+        "data_id": 2,
+        "pred_set": [
+            {
+                "M": "SrTiO3",
+                "F": "retention",
+                "VoF": "10 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "power consumption",
+                "VoF": "109",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "retention",
+                "VoF": "109",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "power consumption",
+                "VoF": "5.3 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "endurance",
+                "VoF": "5.3 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "endurance",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "power consumption",
+                "VoF": "10 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "power consumption",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "endurance",
+                "VoF": "109",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "endurance",
+                "VoF": "10 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "retention",
+                "VoF": "5.3 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "retention",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "SrTiO3",
+                "F": "on-off ratio",
+                "VoF": "200",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "feature size",
+                "VoF": "1.75 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "time scale",
+                "VoF": "30 ms",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Also, SrTiO3 has a On-Off ratio of 200, feature size of 1.75 \u03bcm and time scale of 30 ms.",
+        "data_id": 3,
+        "pred_set": [
+            {
+                "M": "SrTiO3",
+                "F": "On-Off ratio",
+                "VoF": "1.75 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "On-Off ratio",
+                "VoF": "30 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "feature size",
+                "VoF": "200",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "feature size",
+                "VoF": "1.75 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "feature size",
+                "VoF": "30 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "time scale",
+                "VoF": "1.75 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "time scale",
+                "VoF": "30 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "On-Off ratio",
+                "VoF": "200",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "SrTiO3",
+                "F": "time scale",
+                "VoF": "200",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "HfO2",
+                "F": "switching voltage",
+                "VoF": "2.2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "endurance",
+                "VoF": "104",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "retention",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "power consumption",
+                "VoF": "5.4 fj",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "HfO2 is typically used for neuronal functionalities with witching voltage of 2.2 V, endurance of 104, retention of 104 s, power consumption of 5.4 fj.",
+        "data_id": 4,
+        "pred_set": [
+            {
+                "M": "HfO2",
+                "F": "retention",
+                "VoF": "5.4 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "retention",
+                "VoF": "2.2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "endurance",
+                "VoF": "104",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "power consumption",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "retention",
+                "VoF": "104",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "endurance",
+                "VoF": "5.4 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "endurance",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "power consumption",
+                "VoF": "104",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "retention",
+                "VoF": "104 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "power consumption",
+                "VoF": "2.2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "power consumption",
+                "VoF": "5.4 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "endurance",
+                "VoF": "2.2 V",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "HfO2",
+                "F": "on-off ratio",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "feature size",
+                "VoF": "24 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "time scale",
+                "VoF": "1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Also, HfO2 has a On-Off ratio of 105, feature size of 24 \u03bcm and time scale of 1 \u03bcs.",
+        "data_id": 5,
+        "pred_set": [
+            {
+                "M": "HfO2",
+                "F": "feature size",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "On-Off ratio",
+                "VoF": "1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "time scale",
+                "VoF": "1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "On-Off ratio",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "time scale",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "feature size",
+                "VoF": "24 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "time scale",
+                "VoF": "24 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "On-Off ratio",
+                "VoF": "24 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "HfO2",
+                "F": "feature size",
+                "VoF": "1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbO2",
+                "F": "switching voltage",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "retention",
+                "VoF": "3600 s",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "power consumption",
+                "VoF": "2 fj",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "NbO2 is typically used for neuronal functionalities with witching voltage of 2 V, endurance of 3101, retention of 3600 s, power consumption of 2 fj.",
+        "data_id": 6,
+        "pred_set": [
+            {
+                "M": "NbO2",
+                "F": "retention",
+                "VoF": "2 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "retention",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "power consumption",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "2 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "retention",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "power consumption",
+                "VoF": "2 fj",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "power consumption",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbO2",
+                "F": "on-off ratio",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "feature size",
+                "VoF": "525 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "time scale",
+                "VoF": "0.1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Also, NbO2 has a On-Off ratio of 105, feature size of 525 \u03bcm and time scale of 0.1 \u03bcs",
+        "data_id": 7,
+        "pred_set": [
+            {
+                "M": "NbO2",
+                "F": "time scale",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "On-Off ratio",
+                "VoF": "0.1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "time scale",
+                "VoF": "0.1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "feature size",
+                "VoF": "525 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "time scale",
+                "VoF": "525 \u03bcm",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "feature size",
+                "VoF": "0.1 \u03bcs",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "feature size",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "On-Off ratio",
+                "VoF": "105",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "NbO2",
+                "F": "On-Off ratio",
+                "VoF": "525 \u03bcm",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "Ni81Fe19",
+                "F": "time scale",
+                "VoF": "260 ps",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Ni81Fe19 is used for reconfigurable training, with a time scale of 260 ps.",
+        "data_id": 8,
+        "pred_set": [
+            {
+                "M": "Ni81Fe19",
+                "F": "time scale",
+                "VoF": "260 ps",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbO2",
+                "F": "switching voltage",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "NbO2 has a switching voltage of 2 V.",
+        "data_id": 9,
+        "pred_set": [
+            {
+                "M": "NbO2",
+                "F": "switching",
+                "VoF": "2 V",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "NbO2 has a endurance of 3101.",
+        "data_id": 10,
+        "pred_set": [
+            {
+                "M": "NbO2",
+                "F": "endurance",
+                "VoF": "3101",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "MnO2",
+                "F": "retention",
+                "VoF": "106 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CsPbBr3",
+                "F": "retention",
+                "VoF": "105 ms",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Among materials for cation migration, the retention of MnO2 and CsPbBr3 is 106 ms and 105 ms.",
+        "data_id": 11,
+        "pred_set": [
+            {
+                "M": "MnO2",
+                "F": "retention",
+                "VoF": "105 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CsPbBr3",
+                "F": "retention",
+                "VoF": "105 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CsPbBr3",
+                "F": "retention",
+                "VoF": "106 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MnO2",
+                "F": "retention",
+                "VoF": "106 ms",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "MnO2",
+                "F": "time scale",
+                "VoF": "200 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CsPbBr3",
+                "F": "time scale",
+                "VoF": "24 ms",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "Among materials for cation migration, the time scale of MnO2 and CsPbBr3 is 200 ms and 24 ms.",
+        "data_id": 12,
+        "pred_set": [
+            {
+                "M": "CsPbBr3",
+                "F": "time scale",
+                "VoF": "200 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MnO2",
+                "F": "time scale",
+                "VoF": "200 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "MnO2",
+                "F": "time scale",
+                "VoF": "24 ms",
+                "C": "",
+                "VoC": ""
+            },
+            {
+                "M": "CsPbBr3",
+                "F": "time scale",
+                "VoF": "24 ms",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    },
+    {
+        "set": [
+            {
+                "M": "CoFeB",
+                "F": "retention",
+                "VoF": "3600 s",
+                "C": "",
+                "VoC": ""
+            }
+        ],
+        "text": "CoFeB with is typically used for activation function, has a retention of 3600 s.",
+        "data_id": 13,
+        "pred_set": [
+            {
+                "M": "CoFeB",
+                "F": "retention",
+                "VoF": "3600 s",
+                "C": "",
+                "VoC": ""
+            }
+        ]
+    }
+]
