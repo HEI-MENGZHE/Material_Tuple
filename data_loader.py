@@ -72,7 +72,7 @@ class MaterSetDataset(Dataset):
             materialdict = ins_json_data['set']
             order = ["M", "F", "VoF", "C", "VoC"]
             # 在二分类的问题中，我们想达成知道
-
+            
             m_head, m_tail = gen_element_seq(token_len=len(token_text), token_text=token_text, element=materialdict[order[0]])
             f_head, f_tail = gen_element_seq(token_len=len(token_text), token_text=token_text, element=materialdict[order[1]])
             vof_head, vof_tail = gen_element_seq(token_len=len(token_text), token_text=token_text, element=materialdict[order[2]])

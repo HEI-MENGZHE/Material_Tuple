@@ -23,16 +23,17 @@ parser.add_argument('--dataset', type=str, default='MaterialSet_allocation')
 parser.add_argument('--batch_size', type=int, default=8)
 parser.add_argument('--max_epoch', type=int, default=50)
 parser.add_argument('--test_epoch', type=int, default=1)
-parser.add_argument('--train_prefix', type=str, default='train_4') # 要改
-parser.add_argument('--dev_prefix', type=str, default='dev_4') # 要改
+parser.add_argument('--train_prefix', type=str, default='train_china_enhance_all') # 要改
+parser.add_argument('--dev_prefix', type=str, default='dev_china_backup') # 要改
 parser.add_argument('--test_prefix', type=str, default='test_sets')
 parser.add_argument('--max_len', type=int, default=150)
 parser.add_argument('--rel_num', type=int, default=44)
 parser.add_argument('--period', type=int, default=50)
 parser.add_argument('--debug', type=bool, default=False)
-parser.add_argument('--datatype', type=int, default=4) # 要改
-parser.add_argument('--traintype', type=str, default="wo_att", help="ablation test") # 要改
-parser.add_argument('--gpu', type=str, default="0")
+parser.add_argument('--datatype', type=int, default=18) #要改
+parser.add_argument('--fine_tuned_type', type=int, default=4)
+parser.add_argument('--traintype', type=str, default="all", help="ablation test") # 要改
+parser.add_argument('--gpu', type=str, default="1")
 # 在命令行里面只需要改 --traintype 和 --gpu
 args = parser.parse_args()
 

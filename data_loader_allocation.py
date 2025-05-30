@@ -41,7 +41,7 @@ def gen_mapping(token_len, token_text, element):
         if head_index == -1:
             print(token_text)
             print(token_element)
-
+           
             raise Exception("the defined element can not be found in the text")
         else:
             head = [0 for i in range(token_len+2)]
