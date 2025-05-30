@@ -449,11 +449,11 @@ class Framework(object):
                 # m
                 pred_m_heads, pred_m_tails = model.get_m(encoded_text)
 
-                mh, mt = 0.3,0.3
-                fh, ft = 0.05, 0.05
-                vofh, voft = 0.1, 0.1
-                ch, ct = 1, 1
-                voch, voct = 0.1, 0.1
+                mh, mt = 0.5,0.5
+                fh, ft = 0.5, 0.5
+                vofh, voft = 0.5, 0.5
+                ch, ct = 0.5, 0.5
+                voch, voct = 0.5, 0.5
 
                 # print("fh,ft:",vofh, voft)
                 m_heads, m_tails = np.where(pred_m_heads.cpu()[0] > mh)[0], np.where(pred_m_tails.cpu()[0] > mt)[0]
